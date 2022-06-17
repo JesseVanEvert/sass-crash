@@ -13,6 +13,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   width: 80%;
   margin: 0 auto;
 }
@@ -21,4 +22,9 @@ body {
 }
 .main .main_paragraph:hover {
   color: pink;
+}
+
+.light {
+  background: white;
+  color: black;
 }/*# sourceMappingURL=main.css.map */
